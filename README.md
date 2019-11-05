@@ -1,0 +1,2 @@
+# ja-typeahead
+simple typeahead
